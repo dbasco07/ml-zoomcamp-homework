@@ -1,4 +1,4 @@
 # ml-zoomcamp-homework
-Projects for ML Zoomcamp course
+Scratch work for assignments for ML Zoomcamp course
 
 Hi everyone
